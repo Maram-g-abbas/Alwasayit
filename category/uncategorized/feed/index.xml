@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Alwasayit</title>
-	<atom:link href="httpmaram-g-abbas.github.io/Alwasayit/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>httpmaram-g-abbas.github.io/Alwasayit</link>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Fri, 01 Sep 2023 07:02:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>httpmaram-g-abbas.github.io/Alwasayit/2023/09/01/hello-world/</link>
-					<comments>httpmaram-g-abbas.github.io/Alwasayit/2023/09/01/hello-world/#comments</comments>
+		<link>/2023/09/01/hello-world/</link>
+					<comments>/2023/09/01/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[wp-admin]]></dc:creator>
 		<pubDate>Fri, 01 Sep 2023 07:02:08 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">httpmaram-g-abbas.github.io/Alwasayit/?p=1</guid>
+		<guid isPermaLink="false">/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>httpmaram-g-abbas.github.io/Alwasayit/2023/09/01/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/2023/09/01/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
